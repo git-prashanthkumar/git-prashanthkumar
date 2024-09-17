@@ -1,9 +1,9 @@
-## Hi 👋, i'm Prashanthkumar <br/>
-**A passionate full stack developer** <br/>
+# Hi 👋, i'm Prashanthkumar <br/>
+### A passionate full stack developer <br/>
 **fluent in many language, but none of which are spoken**<br/>
 
 🌱 I’m currently learning 
-![spring svg](https://img.icons8.com/?size=35&id=90519&format=png&color=000000)<br/>
+![spring svg](https://img.icons8.com/?size=30&id=90519&format=png&color=000000)<br/>
 📫 How to reach me [Email](https:gprashanthkreddy@gmail.com)<br/>
 ⚡ Fun fact: developer Navigating code as skillfully as Bangaloreans navigate traffic!<br/>
 
