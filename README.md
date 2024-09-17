@@ -1,7 +1,7 @@
 ## **Hi 👋, i'm Prashanthkumar **
 **fluent in many language, but none of which are spoken**
  A passionate full stack developer 
-🌱 I’m currently learning ![spring svg](https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg)
+🌱 I’m currently learning ![spring svg](![image](https://github.com/user-attachments/assets/260a93d1-eff9-419e-9c6e-cf77409c10ab))
 📫 How to reach me [Mail] (gprashanthkreddy@gmail.com)
 ⚡ Fun fact Web developers: Navigating code as skillfully as Bangaloreans navigate traffic!
 
