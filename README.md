@@ -1,5 +1,5 @@
-## Hi 👋, i'm Prashanthkumar <br/>
-** A passionate full stack developer** <br/>
+##**Hi 👋, i'm Prashanthkumar** <br/>
+**A passionate full stack developer** <br/>
 **fluent in many language, but none of which are spoken**<br/>
 
 🌱 I’m currently learning 
